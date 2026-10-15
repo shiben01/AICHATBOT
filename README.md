@@ -14,7 +14,7 @@
 </div>
 
 ---
-<img width="72" height="72" alt="HELLO" src="https://github.com/user-attachments/assets/def75d1a-02aa-4fa3-8bd4-6d73e4b408d6" />
+<img width="500" height="500" alt="HELLO" src="https://github.com/user-attachments/assets/def75d1a-02aa-4fa3-8bd4-6d73e4b408d6" />
 
 ## ✨ Features
 
