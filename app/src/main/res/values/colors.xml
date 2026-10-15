@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#6650A4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ai_bubble">#E7E0EC</color>
+    <color name="ai_text">#1C1B1F</color>
+    <color name="error_bubble">#F9DEDC</color>
+    <color name="error_text">#410E0B</color>
+</resources>
